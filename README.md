@@ -82,7 +82,7 @@ service account with the necessary roles applied.
 
 ### APIs
 
-Hello A project with the following APIs enabled must be used to host the
+Bhaskar A project with the following APIs enabled must be used to host the
 resources of this module:
 
 - Google Cloud Storage JSON API: `storage-api.googleapis.com`
